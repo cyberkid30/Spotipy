@@ -1,0 +1,12 @@
+pathlib
+mysql_connector
+pygame
+mutagen
+bs4
+pydub
+pillow
+youtube_dl
+youtube-search-python
+pythumb
+win10toast
+ffmpeg
