@@ -9,10 +9,10 @@ A MusicPlayer made using Python & MySQL.
  **-mySQL (In Backend for Data Storage and Management)**  
 
 **_**Features of ContactBook:**_**  
-**-Sort songs by 4 categories to access songs easily**
+**-Sort songs by 4 categories to access songs easily**  
 ![image](https://user-images.githubusercontent.com/81703042/197117429-e335a991-865e-49c8-ae74-1d5d91ab2c8f.png)  
 
-**-Download songs from Youtube directly(with or without link)**
+**-Download songs from Youtube directly(with or without link)**  
 ![image](https://user-images.githubusercontent.com/81703042/197117568-16974a0b-100b-49cb-ac0f-bde9918fd263.png)  
 
 **-Simple HUB with all control options**  
