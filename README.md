@@ -24,14 +24,8 @@ A MusicPlayer made using Python & MySQL.
 **Instructions**  
  _-Download all the files and especially the Dependencies Folder as all the image assests are located in the respective folder.   
  -Install requirements.txt file with ```pip install -r requirements.txt```.   
- -Don't delete the Test folder in ```Dependencies\User Data```._  
+ -Don't delete anything from ```Dependencies``` folder._  
  -It requires ffmpeg for running go please install ffmpeg for smooth running of code.(You can check the video attached below)  
-
-```RandomiserForTest.py``` Usage:  
- _-This is file which can be used to test the ContactBook.  
- -It will basically add some default contacts to the profile you have selected.  
- -You can then edit thoose contacts and even delete it._  
- 
  
 -**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._  
 
