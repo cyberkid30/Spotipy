@@ -35,7 +35,7 @@ A MusicPlayer made using Python & MySQL.
  
 -**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._  
 
-Video for reference:
+Video for reference: (![Video for reference and ffmpeg installation](https://youtu.be/TxAQQUtvz3A))
 
 
 **Made By:** 
